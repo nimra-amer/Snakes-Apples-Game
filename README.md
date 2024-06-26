@@ -1,5 +1,5 @@
 # Snakes-Apples-Game
-This game was developed in collaboration with a team member. The game utilizes various search algorithms, including Breadth-First Search (BFS), A* Search (A*), and Greedy Best-First Search (GBS), to navigate the snake towards the apples efficiently.
+This game was developed in collaboration with a team member as a part of "Artificial Intelligence" course. The game utilizes various search algorithms, including Breadth-First Search (BFS), A* Search (A*), and Greedy Best-First Search (GBS), to navigate the snake towards the apples efficiently.
 
 Features
 Breadth-First Search (BFS): Explores all possible paths uniformly to find the shortest path to the apple.
